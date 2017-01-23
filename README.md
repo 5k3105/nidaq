@@ -1,6 +1,6 @@
 binding using cgogen : https://github.com/xlab/cgogen
 
-Works great for the few functions I use:
+Works great for the functions I use:
 
 SelfTestDevice
 CreateTask
